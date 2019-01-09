@@ -6,3 +6,5 @@ Welcom to my kitchen
 jam
 cold drink
 etc
+ chicken
+ meat
