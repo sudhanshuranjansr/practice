@@ -8,6 +8,9 @@ cold drink
 etc
  chicken
  meat
+ 
+ kheer
+ sweets
 
 
 
